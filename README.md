@@ -1,2 +1,1 @@
-# fast-api-crud-app
-fast-api-crud-app
+# Fastapi-CRUD_app
